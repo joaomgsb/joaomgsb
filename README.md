@@ -67,8 +67,9 @@ $ echo $STATUS
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomgsb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomgsb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/stars/joaomgsb?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/followers/joaomgsb?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github&label=Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&labelColor=1a1b27&style=for-the-badge&logo=git&label=Repos&query=public_repos&url=https://api.github.com/users/joaomgsb" />
 </p>
 
 <p align="center">
